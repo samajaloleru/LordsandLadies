@@ -7,15 +7,15 @@
         <!-- CSRF Token -->
         <meta name="csrf-token" content="{{ csrf_token() }}">
 
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-        <link rel="stylesheet" href="{{asset('css/owl.carousel.css')}}">
-        <link rel="stylesheet" href="{{asset('css/magnific-popup.css')}}">
-        <link rel="stylesheet" href="{{asset('css/style.css')}}">
-        <link rel="stylesheet" href="{{asset('css/style-responsive.css')}}">
-        <link rel="stylesheet" href="{{asset('css/animate.min.css')}}">
-        <link rel="stylesheet" href="{{asset('css/vertical-rhythm.min.css')}}">
-        <link rel="stylesheet" href="{{asset('css/bootstrap.min.css')}}">
-        <link rel="stylesheet" href="css/YTPlayer.css">
+        <link href="css/owl.carousel.css" rel="stylesheet">
+        <link href="css/magnific-popup.css" rel="stylesheet">
+        <link href="css/style.css" rel="stylesheet">
+        <link href="css/style-responsive.css" rel="stylesheet">
+        <link href="css/animate.min.css" rel="stylesheet">
+        <link href="css/vertical-rhythm.min.css" rel="stylesheet">
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+        <link href="css/YTPlayer.css" rel="stylesheet">
+
         <title>{{config('app.name', 'LSAPP')}}</title>
 
         <!-- Scripts -->
@@ -44,29 +44,30 @@
         </div>
 
         <!--   Core JS Files   -->
-        <script src="{{ asset('js/jquery-1.11.2.min.js')}}" type="text/javascript"></script>
-        <script src="{{ asset('js/jquery.easing.1.3.js')}}" type="text/javascript"></script>
-        <script src="{{ asset('js/bootstrap.min.js')}}" type="text/javascript"></script>
-        <script src="{{ asset('js/SmoothScroll.js')}}" type="text/javascript"></script>
-        <script src="{{ asset('js/jquery.scrollTo.min.js')}}" type="text/javascript"></script>
-        <script src="{{ asset('js/jquery.localScroll.min.js')}}" type="text/javascript"></script>
-        <script src="{{ asset('js/jquery.viewport.js')}}" type="text/javascript"></script>
-        <script src="{{ asset('js/jquery.countTo.js')}}" type="text/javascript"></script>
-        <script src="{{ asset('js/jquery.appear.js')}}" type="text/javascript"></script>
-        <script src="{{ asset('js/jquery.sticky.js')}}" type="text/javascript"></script>
-        <script src="{{ asset('js/jquery.parallax-1.1.3.js')}}" type="text/javascript"></script>
-        <script src="{{ asset('js/jquery.fitvids.js')}}" type="text/javascript"></script>
-        <script src="{{ asset('js/owl.carousel.min.js')}}" type="text/javascript"></script>
-        <script src="{{ asset('js/isotope.pkgd.min.js')}}" type="text/javascript"></script>
-        <script src="{{ asset('js/imagesloaded.pkgd.min.js')}}" type="text/javascript"></script>
-        <script src="{{ asset('js/jquery.magnific-popup.min.js')}}" type="text/javascript"></script>
-        <script src="{{ asset('js/wow.min.js')}}" type="text/javascript"></script>
-        <script src="{{ asset('js/masonry.pkgd.min.js')}}" type="text/javascript"></script>
-        <script src="{{ asset('js/jquery.simple-text-rotator.min.js')}}" type="text/javascript"></script>
-        <script src="{{ asset('js/jquery.lazyload.min.js')}}" type="text/javascript"></script>
-        <script src="{{ asset('js/jquery.ajaxchimp.min.js')}}" type="text/javascript"></script>
-        <script src="{{ asset('js/all.js')}}" type="text/javascript"></script>
-        <script src="{{ asset('js/jquery.mb.YTPlayer.js')}}" type="text/javascript"></script>
-        <script src="{{ asset('js/contact-form.js')}}" type="text/javascript"></script>
+        <script src="js/jquery-1.11.2.min.js"></script>
+        <script src="js/jquery.easing.1.3.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/SmoothScroll.js"></script>
+        <script src="js/jquery.scrollTo.min.js"></script>
+        <script src="js/jquery.localScroll.min.js"></script>
+        <script src="js/jquery.viewport.js"></script>
+        <script src="js/jquery.countTo.js"></script>
+        <script src="js/jquery.appear.js"></script>
+        <script src="js/jquery.sticky.js"></script>
+        <script src="js/jquery.parallax-1.1.3.js"></script>
+        <script src="js/jquery.fitvids.js"></script>
+        <script src="js/owl.carousel.min.js"></script>
+        <script src="js/isotope.pkgd.min.js"></script>
+        <script src="js/imagesloaded.pkgd.min.js"></script>
+        <script src="js/jquery.magnific-popup.min.js"></script>
+        <script src="js/wow.min.js"></script>
+        <script src="js/masonry.pkgd.min.js"></script>
+        <script src="js/jquery.simple-text-rotator.min.js"></script>
+        <script src="js/jquery.lazyload.min.js"></script>
+        <script src="js/jquery.ajaxchimp.min.js"></script>
+        <script src="js/all.js"></script>
+        <script src="js/jquery.mb.YTPlayer.js"></script>
+        <script src="js/contact-form.js"></script>
+        
     </body>
 </html>
