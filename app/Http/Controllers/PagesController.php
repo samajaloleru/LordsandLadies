@@ -24,6 +24,12 @@ class PagesController extends Controller
         return view('pages.spa')->with('title', $title);
     }
 
+    public function contact() {
+        $title = 'Contact Us';
+        //return view('pages.estate', compact('title'));
+        return view('pages.contact')->with('title', $title);
+    }
+
     public function blog() {
         $title = 'Welcome to Our Blog !!!';
         //return view('pages.estate', compact('title'));

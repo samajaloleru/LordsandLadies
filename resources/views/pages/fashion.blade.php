@@ -3,7 +3,7 @@
 @section('content')
     <div class="home-section fullwidth-slider-fade bg-dark" id="home">
 
-        <section class="home-section bg-dark-alfa-90 parallax-2" data-background="images/full-width-images/section-bg-4.jpg">
+        <section class="home-section bg-dark-alfa-70 parallax-2" data-background="img/bgImage20.JPG">
             <div class="js-height-full">
                 
                 <!-- Hero Content -->

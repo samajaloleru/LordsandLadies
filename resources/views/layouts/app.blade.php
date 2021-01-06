@@ -7,11 +7,11 @@
         <!-- CSRF Token -->
         <meta name="csrf-token" content="{{ csrf_token() }}">
 
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
         <link href="css/owl.carousel.css" rel="stylesheet">
         <link href="css/magnific-popup.css" rel="stylesheet">
         <link href="css/style.css" rel="stylesheet">
         <link href="css/style-responsive.css" rel="stylesheet">
-        <link href="css/fontawesomepro.css">
         <link href="css/animate.min.css" rel="stylesheet">
         <link href="css/vertical-rhythm.min.css" rel="stylesheet">
         <link href="css/bootstrap.min.css" rel="stylesheet">

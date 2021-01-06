@@ -22,12 +22,12 @@
             
             <!-- Copyright -->
             <div class="footer-copy font-alt">
-                <a href="" target="_blank">&copy; Rhythm {{ date('Y')}}</a>.
+                <a href="" target="_blank">&copy; Lords & Ladies {{ date('Y')}}</a>.
             </div>
             <!-- End Copyright -->
             
             <div class="footer-made">
-                Made with love for great people.
+                We live up to expectation.
             </div>
             
         </div>

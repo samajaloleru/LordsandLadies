@@ -17,7 +17,7 @@
 
                         <h2 class="hs-line-7 mb-50 mb-xs-30">
                             <span class="text-rotate">
-                                Rhythm Creative Studio,
+                                Lords & Ladies,
                                 We Have Magic Skills,
                                 We Love Smart Design
                             </span>
@@ -45,7 +45,7 @@
 
                         <h2 class="hs-line-7 mb-50 mb-xs-30">
                             <span class="text-rotate">
-                                Rhythm Creative Studio,
+                                Lords & Ladies,
                                 We Have Magic Skills,
                                 We Love Smart Design
                             </span>
@@ -72,7 +72,7 @@
 
                         <h2 class="hs-line-7 mb-50 mb-xs-30">
                             <span class="text-rotate">
-                                Rhythm Creative Studio,
+                                Lords & Ladies,
                                 We Have Magic Skills,
                                 We Love Smart Design
                             </span>

@@ -10,18 +10,9 @@
                 <!-- Hero Content -->
                 <div class="home-content">
                     <div class="home-text">
-                        
-                        
-                        
                         <h2 class="hs-line-14 font-alt mb-50 mb-xs-30">
                             <?php echo $title; ?>
                         </h2>
-                        
-                        <div class="local-scroll">
-                            <a href="" class="btn btn-mod btn-border-w btn-medium btn-round hidden-xs">See More</a>
-                            <span class="hidden-xs">&nbsp;</span>
-                            <a href="https://vimeo.com/79802823" class="btn btn-mod btn-border-w btn-medium btn-round lightbox mfp-iframe">Play Reel</a>
-                        </div>
                         
                     </div>
                 </div>
@@ -43,12 +34,6 @@
                             <?php echo $title; ?>
                         </h2>
                         
-                        <div class="local-scroll">
-                            <a href="" class="btn btn-mod btn-border-w btn-medium btn-round hidden-xs">See More</a>
-                            <span class="hidden-xs">&nbsp;</span>
-                            <a href="https://vimeo.com/79802823" class="btn btn-mod btn-border-w btn-medium btn-round lightbox mfp-iframe">Play Reel</a>
-                        </div>
-                        
                     </div>
                 </div>
                 <!-- End Hero Content -->
@@ -64,13 +49,9 @@
                 <!-- Hero Content -->
                 <div class="home-content">
                     <div class="home-text">
-                        <h2 class="hs-line-14 font-alt mb-50 mb-xs-30">
+                        <h2 class="hs-line-14 font-alt mt-50 mt-xs-30">
                             <?php echo $title; ?>
                         </h2>
-                        
-                        <div>
-                            <a href="" class="btn btn-mod btn-border-w btn-medium btn-round">Get Pricing</a>
-                        </div>
                         
                     </div>
                 </div>

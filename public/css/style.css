@@ -1740,7 +1740,7 @@ a.logo:hover{
 .mobile-on .desktop-nav ul{
     width: 100%;
     float: none;
-    background: rgba(18,18,18, .97);
+    background: rgba(245,245,245);
     position: relative;
     overflow-x: hidden;
 }
@@ -5571,6 +5571,13 @@ section:hover .small-item-carousel .owl-next{
     .et-examples .box1{
         width: 50%;
     }
+    
+}
+@media only screen and (max-width: 600px) {
+    .fontWeight{
+        font-weight: 900;
+    }
+    
 }
 @media only screen and (max-width: 480px) {
     .et-examples .box1{

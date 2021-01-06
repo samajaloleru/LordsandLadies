@@ -4,7 +4,7 @@
     <div class="home-section fullwidth-slider-fade bg-dark" id="home">
                     
         <!-- Slide Item -->
-        <section class="home-section bg-scroll bg-dark-alfa-50" data-background="img/estate.jpg">
+        <section class="home-section bg-scroll bg-dark-alfa-50" data-background="img/bgImage19.JPG">
             <div class="js-height-full container">
                 
                 <!-- Hero Content -->
@@ -13,12 +13,6 @@
                         <h2 class="hs-line-14 font-alt mb-50 mb-xs-30">
                             <?php echo $title; ?>
                         </h2>
-                        
-                        <div class="local-scroll">
-                            <a href="" class="btn btn-mod btn-border-w btn-medium btn-round hidden-xs">See More</a>
-                            <span class="hidden-xs">&nbsp;</span>
-                            <a href="https://vimeo.com/79802823" class="btn btn-mod btn-border-w btn-medium btn-round lightbox mfp-iframe">Play Reel</a>
-                        </div>
                         
                     </div>
                 </div>
@@ -29,7 +23,7 @@
         <!-- End Slide Item -->
         
         <!-- Slide Item -->
-        <section class="home-section bg-scroll bg-dark-alfa-30" data-background="img/estate1.jpg">
+        <section class="home-section bg-scroll bg-dark-alfa-30" data-background="img/bgImage15.JPG">
             <div class="js-height-full container">
                 
                 <!-- Hero Content -->
@@ -38,12 +32,6 @@
                         <h2 class="hs-line-14 font-alt mb-50 mb-xs-30">
                             <?php echo $title; ?>
                         </h2>
-                        
-                        <div class="local-scroll">
-                            <a href="" class="btn btn-mod btn-border-w btn-medium btn-round hidden-xs">See More</a>
-                            <span class="hidden-xs">&nbsp;</span>
-                            <a href="https://vimeo.com/79802823" class="btn btn-mod btn-border-w btn-medium btn-round lightbox mfp-iframe">Play Reel</a>
-                        </div>
                         
                     </div>
                 </div>
@@ -54,7 +42,7 @@
         <!-- End Slide Item -->
         
         <!-- Slide Item -->
-        <section class="home-section bg-scroll bg-dark-alfa-30" data-background="img/estate2.jpg">
+        <section class="home-section bg-scroll bg-dark-alfa-30" data-background="img/bgImage7.JPG">
             <div class="js-height-full container">
                 
                 <!-- Hero Content -->
@@ -63,10 +51,6 @@
                         <h2 class="hs-line-14 font-alt mb-50 mb-xs-30">
                             <?php echo $title; ?>
                         </h2>
-                        
-                        <div>
-                            <a href="" class="btn btn-mod btn-border-w btn-medium btn-round">Get Pricing</a>
-                        </div>
                         
                     </div>
                 </div>
