@@ -7,16 +7,16 @@
             </a>
         </div>
         <div class="mobile-nav">
-            <i class="fa fa-bars"></i>
+            <i class="fa fa-bars colorDefault"></i>
         </div>
         <!-- Main Menu -->
         <div class="inner-nav desktop-nav">
             <ul class="clearlist scroll-nav local-scroll">
                 <li class="active"><a href="/">Home</a></li>
                 <li><a href="/hotel">Hotel</a></li>
+                <li><a href="/about">About</a></li>
+                <li><a href="/blog">Blog</a></li>
                 <li><a href="/spa">Spa</a></li>
-                <li><a href="/estate">Real Estate</a></li>
-                <li><a href="/decoration">Interior Decoration</a></li>
                 <li><a href="/fashion">Fashion</a></li>
             </ul>
         </div>

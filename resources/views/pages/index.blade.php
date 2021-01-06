@@ -4,24 +4,24 @@
     <div class="home-section fullwidth-slider-fade bg-dark" id="home">
                         
         <!-- Slide Item -->
-        <section class="home-section bg-scroll bg-dark-alfa-50" data-background="img/BgImage15.jpeg">
+        <section class="home-section bg-scroll bg-dark-alfa-50" data-background="img/bgImage7.JPG">
             <div class="js-height-full container">
                 
                 <!-- Hero Content -->
                 <div class="home-content">
                     <div class="home-text">
                         
-                        
-                        
                         <h2 class="hs-line-14 font-alt mb-50 mb-xs-30">
                             <?php echo $title; ?>
                         </h2>
-                        
-                        <div class="local-scroll">
-                            <a href="" class="btn btn-mod btn-border-w btn-medium btn-round hidden-xs">See More</a>
-                            <span class="hidden-xs">&nbsp;</span>
-                            <a href="https://vimeo.com/79802823" class="btn btn-mod btn-border-w btn-medium btn-round lightbox mfp-iframe">Play Reel</a>
-                        </div>
+
+                        <h2 class="hs-line-7 mb-50 mb-xs-30">
+                            <span class="text-rotate">
+                                Rhythm Creative Studio,
+                                We Have Magic Skills,
+                                We Love Smart Design
+                            </span>
+                        </h2>
                         
                     </div>
                 </div>
@@ -42,12 +42,14 @@
                         <h2 class="hs-line-14 font-alt mb-50 mb-xs-30">
                             <?php echo $title; ?>
                         </h2>
-                        
-                        <div class="local-scroll">
-                            <a href="" class="btn btn-mod btn-border-w btn-medium btn-round hidden-xs">See More</a>
-                            <span class="hidden-xs">&nbsp;</span>
-                            <a href="https://vimeo.com/79802823" class="btn btn-mod btn-border-w btn-medium btn-round lightbox mfp-iframe">Play Reel</a>
-                        </div>
+
+                        <h2 class="hs-line-7 mb-50 mb-xs-30">
+                            <span class="text-rotate">
+                                Rhythm Creative Studio,
+                                We Have Magic Skills,
+                                We Love Smart Design
+                            </span>
+                        </h2>
                         
                     </div>
                 </div>
@@ -67,10 +69,14 @@
                         <h2 class="hs-line-14 font-alt mb-50 mb-xs-30">
                             <?php echo $title; ?>
                         </h2>
-                        
-                        <div>
-                            <a href="" class="btn btn-mod btn-border-w btn-medium btn-round">Get Pricing</a>
-                        </div>
+
+                        <h2 class="hs-line-7 mb-50 mb-xs-30">
+                            <span class="text-rotate">
+                                Rhythm Creative Studio,
+                                We Have Magic Skills,
+                                We Love Smart Design
+                            </span>
+                        </h2>
                         
                     </div>
                 </div>
@@ -245,7 +251,7 @@
         </div>
     </section>
 
-    <section class="page-section bg-dark bg-dark-alfa-90 fullwidth-slider" data-background="img/section-bg-3.jpg">
+    <section class="page-section bg-dark bg-dark-alfa-70 fullwidth-slider" data-background="img/bgImage7.JPG">
                 
         <!-- Slide Item -->
         <div>

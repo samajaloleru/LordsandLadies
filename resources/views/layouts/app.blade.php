@@ -11,6 +11,7 @@
         <link href="css/magnific-popup.css" rel="stylesheet">
         <link href="css/style.css" rel="stylesheet">
         <link href="css/style-responsive.css" rel="stylesheet">
+        <link href="css/fontawesomepro.css">
         <link href="css/animate.min.css" rel="stylesheet">
         <link href="css/vertical-rhythm.min.css" rel="stylesheet">
         <link href="css/bootstrap.min.css" rel="stylesheet">

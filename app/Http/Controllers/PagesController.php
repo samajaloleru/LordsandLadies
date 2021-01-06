@@ -24,16 +24,16 @@ class PagesController extends Controller
         return view('pages.spa')->with('title', $title);
     }
 
-    public function estate() {
-        $title = 'Welcome to Our Estate !!!';
+    public function blog() {
+        $title = 'Welcome to Our Blog !!!';
         //return view('pages.estate', compact('title'));
-        return view('pages.estate')->with('title', $title);
+        return view('pages.blog')->with('title', $title);
     }
     
-    public function decoration() {
-        $title = 'Welcome to Our Decoration !!!';
+    public function about() {
+        $title = 'About Us !!!';
         //return view('pages.decoration', compact('title'));
-        return view('pages.decoration')->with('title', $title);
+        return view('pages.about')->with('title', $title);
     }
     
     public function fashion() {

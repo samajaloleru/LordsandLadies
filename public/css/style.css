@@ -114,6 +114,7 @@ Section Text:       15px/1.7 "Open Sans", arial, sans-serif;
 .relative{position:relative;}
 .hidden{display:none;}
 .inline-block{display:inline-block;}
+.colorDefault{ color: #7E1616 !important; }
 .white{ color: #fff !important; }
 .black{ color: #111 !important; }
 .color{ color: #e41919 !important; }
