@@ -2,7 +2,7 @@
 
 @section('content')
     <!-- Head Section -->
-    <section class="page-section bg-dark-alfa-70">
+    <section class="page-section bg-dark-alfa-70 parallax-3" data-background="img/bgImage5.JPG">
         <div class="relative container align-left">
             
             <div class="row">
