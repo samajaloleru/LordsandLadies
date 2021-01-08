@@ -102,7 +102,7 @@
                         
                         <div class="team-item-image">
                             
-                            <img src="images/team/team-1.jpg" alt="" />
+                            <img src="img/bgImage22.JPG" alt="" />
                             
                             <div class="team-item-detail">
                                 
@@ -143,7 +143,7 @@
                         
                         <div class="team-item-image">
                             
-                            <img src="images/team/team-2.jpg" alt="" />
+                            <img src="img/bgImage22.JPG" alt="" />
                             
                             <div class="team-item-detail">
                                 
@@ -184,7 +184,7 @@
                         
                         <div class="team-item-image">
                             
-                            <img src="images/team/team-3.jpg" alt="" />
+                            <img src="img/bgImage22.JPG" alt="" />
                             
                             <div class="team-item-detail">
                                 
@@ -225,7 +225,7 @@
         </div>
     </section>
 
-    <section class="page-section bg-dark bg-dark-alfa-90 fullwidth-slider" data-background="img/section-bg-3.jpg">
+    <section class="page-section bg-dark bg-dark-alfa-70 fullwidth-slider" data-background="img/bgImage7.JPG">
                 
         <!-- Slide Item -->
         <div>

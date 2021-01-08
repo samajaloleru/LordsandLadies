@@ -20,6 +20,11 @@ Primary use:    MultiPurpose Template
 ::-webkit-scrollbar {
     display: none;
 }
+
+.blog-icon {
+    height: 30px;
+    width: 30px;
+}
 /*------------------------------------------------------------------
 [Table of contents]
 
