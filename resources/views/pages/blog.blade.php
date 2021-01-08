@@ -329,7 +329,7 @@
                         
                         <!-- Media Gallery -->
                         <div class="blog-media">
-                            <iframe width="640" height="360" src="https://www.youtube.com/embed/w2JUhDd0CAA" frameborder="0" allowfullscreen></iframe>
+                            <iframe width="640" height="360" src="https://www.youtube.com/embed/Qbxv3WRp6QY" frameborder="0" allowfullscreen></iframe>
                         </div>
                         
                         <!-- Text Intro -->
