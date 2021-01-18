@@ -38,8 +38,7 @@
                                     Address
                                 </div>
                                 <div class="ci-text">
-                                    No 19'B Olaboye Olaleye street off Joseph Harrison estate Onike Iwaya yaba
-                                    Lagos
+                                    No 19'B, Olaboye Olaleye street, off Joseph Harrison estate, Onike Iwaya, Yaba, Lagos.
                                 </div>
                             </div>
                         </div>
