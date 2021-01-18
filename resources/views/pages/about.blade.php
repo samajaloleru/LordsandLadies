@@ -10,8 +10,11 @@
                 <!-- Hero Content -->
                 <div class="home-content">
                     <div class="home-text">
-                        <h2 class="hs-line-14 font-alt mb-50 mb-xs-30">
-                            <?php echo $title; ?>
+                        <h2 class="hs-line-7 mb-50 mb-xs-30">
+                            <span class="text-rotate">
+                                Know more ..,
+                                <?php echo $title; ?>,
+                            </span>
                         </h2>
                         
                     </div>
@@ -29,8 +32,11 @@
                 <!-- Hero Content -->
                 <div class="home-content">
                     <div class="home-text">
-                        <h2 class="hs-line-14 font-alt mb-50 mb-xs-30">
-                            <?php echo $title; ?>
+                        <h2 class="hs-line-7 mb-50 mb-xs-30">
+                            <span class="text-rotate">
+                                Know more ..,
+                                <?php echo $title; ?>,
+                            </span>
                         </h2>
                         
                     </div>
@@ -48,8 +54,11 @@
                 <!-- Hero Content -->
                 <div class="home-content">
                     <div class="home-text">
-                        <h2 class="hs-line-14 font-alt mb-50 mb-xs-30">
-                            <?php echo $title; ?>
+                        <h2 class="hs-line-7 mb-50 mb-xs-30">
+                            <span class="text-rotate">
+                                Know more ..,
+                                <?php echo $title; ?>,
+                            </span>
                         </h2>
                         
                     </div>
@@ -61,37 +70,13 @@
         <!-- End Slide Item -->
 
     </div>
+    
     <section class="page-section" id="about">
         <div class="container relative">
             
             <h2 class="section-title font-alt align-left mb-70 mb-sm-40">
                 About Studio
             </h2>
-            
-            <div class="section-text mb-50 mb-sm-20">
-                <div class="row">
-                
-                    <div class="col-md-4">
-                        <blockquote>
-                            <p>
-                            Design is&nbsp;not making beauty, beauty emerges from selection, affinities, integration, love.
-                            </p>
-                            <footer>
-                                Louis Kahn
-                            </footer>
-                        </blockquote>
-                    </div>
-                    
-                    <div class="col-md-4 col-sm-6 mb-sm-50 mb-xs-30">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. In maximus ligula semper metus pellentesque mattis. Maecenas  volutpat, diam enim sagittis quam, id porta quam. Sed id dolor consectetur fermentum nibh volutpat, accumsan purus. 
-                    </div>
-                    
-                    <div class="col-md-4 col-sm-6 mb-sm-50 mb-xs-30">
-                        Etiam sit amet fringilla lacus. Pellentesque suscipit ante at ullamcorper pulvinar neque porttitor. Integer lectus. Praesent sed nisi eleifend, fermentum orci amet, iaculis libero. Donec vel ultricies purus. Nam dictum sem, eu aliquam.
-                    </div>
-                    
-                </div>
-            </div>
             
             <div class="row">
                 
@@ -101,15 +86,11 @@
                         
                         <div class="team-item-image">
                             
-                            <img src="img/bgImage21.JPG" alt="" />
+                            <img src="img/bgImage25.JPG" alt="" />
                             
                             <div class="team-item-detail">
                                 
                                 <h4 class="font-alt normal">Hello & Welcome!</h4>
-                                
-                                <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit lacus, a&nbsp;iaculis diam. 
-                                </p>
                                 
                                 <div class="team-social-links">
                                     <a href="#" target="_blank"><i class="fa fa-facebook"></i></a>
@@ -119,19 +100,6 @@
                                 
                             </div>
                         </div>
-                        
-                        <div class="team-item-descr font-alt">
-                            
-                            <div class="team-item-name">
-                                Thomas Rhythm 
-                            </div>
-                            
-                            <div class="team-item-role">
-                                Art Director
-                            </div>
-                            
-                        </div>
-                        
                     </div>
                 </div>
                 <!-- End Team item -->
@@ -148,10 +116,6 @@
                                 
                                 <h4 class="font-alt normal">Nice to meet!</h4>
                                 
-                                <p>
-                                    Curabitur augue, nec finibus mauris pretium eu. Duis placerat ex gravida nibh tristique porta.
-                                </p>
-                                
                                 <div class="team-social-links">
                                     <a href="#" target="_blank"><i class="fa fa-facebook"></i></a>
                                     <a href="#" target="_blank"><i class="fa fa-twitter"></i></a>
@@ -161,17 +125,6 @@
                             </div>
                         </div>
                         
-                        <div class="team-item-descr font-alt">
-                            
-                            <div class="team-item-name">
-                                Marta Laning
-                            </div>
-                            
-                            <div class="team-item-role">
-                                Web engineer
-                            </div>
-                            
-                        </div>
                         
                     </div>
                 </div>
@@ -183,15 +136,11 @@
                         
                         <div class="team-item-image">
                             
-                            <img src="img/bgImage23.JPG" alt="" />
+                            <img src="img/bgImage8.JPG" alt="" />
                             
                             <div class="team-item-detail">
                                 
                                 <h4 class="font-alt normal">Whats Up!</h4>
-                                
-                                <p>
-                                    Adipiscing elit curabitur eu&nbsp;adipiscing lacus eu&nbsp;adipiscing lacus, a&nbsp;iaculis diam. 
-                                </p>
                                 
                                 <div class="team-social-links">
                                     <a href="#" target="_blank"><i class="fa fa-facebook"></i></a>
@@ -200,18 +149,6 @@
                                 </div>
                                 
                             </div>
-                        </div>
-                        
-                        <div class="team-item-descr font-alt">
-                            
-                            <div class="team-item-name">
-                                Steve ANDERS
-                            </div>
-                            
-                            <div class="team-item-role">
-                                Developer
-                            </div>
-                            
                         </div>
                         
                     </div>
@@ -233,16 +170,15 @@
                     <div class="col-md-8 col-md-offset-2 align-center">
                         <!-- Section Icon -->
                         <div class="section-icon">
-                            <span class="icon-quote"></span>
+                            <i class="fa fa-quote-right"></i>
                         </div>
                         <!-- Section Title --><h3 class="small-title font-alt">What people say?</h3>
                         <blockquote class="testimonial white">
                             <p>
-                                Phasellus luctus commodo ullamcorper a posuere rhoncus commodo elit. Aenean congue,
-                                risus utaliquam dapibus. Thanks!
+                                it’s a great place to stay.... Staff were friendly, caring and pleasant, starting from the reception.
                             </p>
                             <footer class="testimonial-author">
-                                John Doe, doodle inc.
+                                Rasheeda Ilo
                             </footer>
                         </blockquote>
                     </div>
@@ -258,16 +194,16 @@
                     <div class="col-md-8 col-md-offset-2 align-center">
                         <!-- Section Icon -->
                         <div class="section-icon">
-                            <span class="icon-quote"></span>
+                            <i class="fa fa-quote-right"></i>
                         </div>
                         <!-- Section Title --><h3 class="small-title font-alt">What people say?</h3>
                         <blockquote class="testimonial white">
                             <p>
-                                Phasellus luctus commodo ullamcorper a posuere rhoncus commodo elit. Aenean congue,
-                                risus utaliquam dapibus. Thanks!
+                                We only stayed here for one night, but were surprised by the hotel.
+                                We had a huge bedroom with an enormous bath.
                             </p>
                             <footer class="testimonial-author">
-                                John Doe, doodle inc.
+                                Segun Adetunji
                             </footer>
                         </blockquote>
                     </div>
@@ -283,16 +219,16 @@
                     <div class="col-md-8 col-md-offset-2 align-center">
                         <!-- Section Icon -->
                         <div class="section-icon">
-                            <span class="icon-quote"></span>
+                            <i class="fa fa-quote-right"></i>
                         </div>
                         <!-- Section Title --><h3 class="small-title font-alt">What people say?</h3>
                         <blockquote class="testimonial white">
                             <p>
-                                Phasellus luctus commodo ullamcorper a posuere rhoncus commodo elit. Aenean congue,
-                                risus utaliquam dapibus. Thanks!
+                                It was a 3 day trip.We stayed in this hotel on the first day. There were not many people staying that
+                                day. Very friendly staff and the suite we stayed was spacious and clean.
                             </p>
                             <footer class="testimonial-author">
-                                John Doe, doodle inc.
+                                Georgina Ajato
                             </footer>
                         </blockquote>
                     </div>
