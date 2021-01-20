@@ -76,6 +76,9 @@
             
             <div class="row section-text">
                 <div class="col-md-8 col-md-offset-2 shadow">
+                    <h2 class="section-title font-alt align-left mt-30 mb-20 ml-30">
+                        About Studio
+                    </h2>
                     <ul class="mt-40">
                         <li>Lords and ladies suit situated 5 mins away from university of Lagos and just 20mins ride to University of lagos  15 mins away from yaba college of technology 5 mins to third Mainland Bridge a lovely serene environment.</li>
                         <hr class="mb-30"/>
