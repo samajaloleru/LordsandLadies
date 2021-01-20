@@ -23,6 +23,14 @@ Primary use:    MultiPurpose Template
     height: 30px;
     width: 30px;
 }
+
+.about-title {
+    font-weight: 800;
+}
+
+.about-padding {
+    padding: 30px;
+}
 /*------------------------------------------------------------------
 [Table of contents]
 
@@ -1320,7 +1328,7 @@ a.bg-video-button-muted{
 .hs-line-10.highlight{
     background: #e41919;
     opacity: .65;
-}
+}p
 .hs-line-10.transparent{
     background: none;
     color: #aaa;

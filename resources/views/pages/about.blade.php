@@ -71,171 +71,43 @@
 
     </div>
     
-    <section class="page-section" id="about">
+    <section class="page-section">
         <div class="container relative">
             
-            <h2 class="section-title font-alt align-left mb-70 mb-sm-40">
-                About Studio
-            </h2>
-            
-            <div class="row">
-                
-                <!-- Team item -->
-                <div class="col-sm-4 mb-xs-30 wow fadeInUp">
-                    <div class="team-item">
-                        
-                        <div class="team-item-image">
-                            
-                            <img src="img/bgImage25.JPG" alt="" />
-                            
-                            <div class="team-item-detail">
-                                
-                                <h4 class="font-alt normal">Hello & Welcome!</h4>
-                                
-                                <div class="team-social-links">
-                                    <a href="#" target="_blank"><i class="fa fa-facebook"></i></a>
-                                    <a href="#" target="_blank"><i class="fa fa-twitter"></i></a>
-                                    <a href="#" target="_blank"><i class="fa fa-pinterest"></i></a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- End Team item -->
-                
-                <!-- Team item -->
-                <div class="col-sm-4 mb-xs-30 wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="team-item">
-                        
-                        <div class="team-item-image">
-                            
-                            <img src="img/bgImage22.JPG" alt="" />
-                            
-                            <div class="team-item-detail">
-                                
-                                <h4 class="font-alt normal">Nice to meet!</h4>
-                                
-                                <div class="team-social-links">
-                                    <a href="#" target="_blank"><i class="fa fa-facebook"></i></a>
-                                    <a href="#" target="_blank"><i class="fa fa-twitter"></i></a>
-                                    <a href="#" target="_blank"><i class="fa fa-pinterest"></i></a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                        
+            <div class="row section-text">
+                <div class="col-md-8 col-md-offset-2 shadow">
+                    <ul class="mt-40">
+                        <li>Lords and ladies suit situated 5 mins away from university of Lagos and just 20mins ride to University of lagos  15 mins away from yaba college of technology 5 mins to third Mainland Bridge a lovely serene environment.</li>
+                        <hr class="mb-30"/>
+                        <li>Our Hotel has 2 floors with 10 rooms in a suite, making the hotel a very conductive gateway spot.</li>
+                        <hr class="mb-30"/>
+                        <li>Our hotel facilities and services extends much more than hotel rooms. We have a saloon, Karaoke, Laundry services.</li>
+                        <hr class="mb-30"/>
+                    </ul>
+                    
+                    <div class="about-padding">
+                        <h5 class="font-alt about-title">For bookings and Reservations; Contact</h5>
+                        <hr class="mb-30"/>
+                        <p>
+                            Whatsapp: &nbsp;&nbsp; +234 902 836 2347 
+                        </p>
+                        <p>
+                            Call: &nbsp;&nbsp; +234 902 836 2347 
+                        </p>
+                        <p>
+                            Email: &nbsp;&nbsp; lordsandladiessuites@gmail.com 
+                        </p>
+                        <p>
+                            Instagram: &nbsp;&nbsp; Lordsandladiessuite 
+                        </p>
+                        <p>
+                            Facebook: &nbsp;&nbsp; Lordsandladiessuites 
+                        </p>
                         
                     </div>
                 </div>
-                <!-- End Team item -->
-                
-                <!-- Team item -->
-                <div class="col-sm-4 mb-xs-30 wow fadeInUp" data-wow-delay="0.2s">
-                    <div class="team-item">
-                        
-                        <div class="team-item-image">
-                            
-                            <img src="img/bgImage8.JPG" alt="" />
-                            
-                            <div class="team-item-detail">
-                                
-                                <h4 class="font-alt normal">Whats Up!</h4>
-                                
-                                <div class="team-social-links">
-                                    <a href="#" target="_blank"><i class="fa fa-facebook"></i></a>
-                                    <a href="#" target="_blank"><i class="fa fa-twitter"></i></a>
-                                    <a href="#" target="_blank"><i class="fa fa-pinterest"></i></a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                        
-                    </div>
-                </div>
-                <!-- End Team item -->
-                
             </div>
-            
             
         </div>
-    </section>
-
-    <section class="page-section bg-dark bg-dark-alfa-70 fullwidth-slider" data-background="img/bgImage7.JPG">
-                
-        <!-- Slide Item -->
-        <div>
-            <div class="container relative">
-                <div class="row">
-                    <div class="col-md-8 col-md-offset-2 align-center">
-                        <!-- Section Icon -->
-                        <div class="section-icon">
-                            <i class="fa fa-quote-right"></i>
-                        </div>
-                        <!-- Section Title --><h3 class="small-title font-alt">What people say?</h3>
-                        <blockquote class="testimonial white">
-                            <p>
-                                it’s a great place to stay.... Staff were friendly, caring and pleasant, starting from the reception.
-                            </p>
-                            <footer class="testimonial-author">
-                                Rasheeda Ilo
-                            </footer>
-                        </blockquote>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- End Slide Item -->
-        
-        <!-- Slide Item -->
-        <div>
-            <div class="container relative">
-                <div class="row">
-                    <div class="col-md-8 col-md-offset-2 align-center">
-                        <!-- Section Icon -->
-                        <div class="section-icon">
-                            <i class="fa fa-quote-right"></i>
-                        </div>
-                        <!-- Section Title --><h3 class="small-title font-alt">What people say?</h3>
-                        <blockquote class="testimonial white">
-                            <p>
-                                We only stayed here for one night, but were surprised by the hotel.
-                                We had a huge bedroom with an enormous bath.
-                            </p>
-                            <footer class="testimonial-author">
-                                Segun Adetunji
-                            </footer>
-                        </blockquote>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- End Slide Item -->
-        
-        <!-- Slide Item -->
-        <div>
-            <div class="container relative">
-                <div class="row">
-                    <div class="col-md-8 col-md-offset-2 align-center">
-                        <!-- Section Icon -->
-                        <div class="section-icon">
-                            <i class="fa fa-quote-right"></i>
-                        </div>
-                        <!-- Section Title --><h3 class="small-title font-alt">What people say?</h3>
-                        <blockquote class="testimonial white">
-                            <p>
-                                It was a 3 day trip.We stayed in this hotel on the first day. There were not many people staying that
-                                day. Very friendly staff and the suite we stayed was spacious and clean.
-                            </p>
-                            <footer class="testimonial-author">
-                                Georgina Ajato
-                            </footer>
-                        </blockquote>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- End Slide Item -->
-        
     </section>
 @endsection
