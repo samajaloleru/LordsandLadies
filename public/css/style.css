@@ -15,6 +15,12 @@ Primary use:    MultiPurpose Template
 
 /* New CSS*/
 
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+    .section-title {
+        font-size: 15px !important;
+    }
+}
+
 ::-webkit-scrollbar {
     display: none;
 }
@@ -2757,7 +2763,6 @@ a.logo:hover{
 .section-text{
     font-size: 15px;
     font-weight: 300;
-    color: #777;
     line-height: 1.7;
 }
 .section-text blockquote{

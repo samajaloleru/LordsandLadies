@@ -52,7 +52,7 @@
         <!-- End Slide Item -->
         
         <!-- Slide Item -->
-        <section class="home-section bg-scroll bg-dark-alfa-30" data-background="img/bgImage3.JPG">
+        <section class="home-section bg-scroll bg-dark-alfa-30" data-background="img/bgImage4.JPG">
             <div class="js-height-full container">
                 
                 <!-- Hero Content -->
@@ -61,7 +61,7 @@
 
                         <h2 class="hs-line-7 mb-50 mb-xs-30">
                             <span class="text-rotate">
-                                <?php echo $title; ?>,
+                                Contact us @, 
                                 Lords and Ladies suite,
                                 Luxury Hotel
                             </span>
@@ -81,7 +81,7 @@
         <div class="container relative">
             
             <h2 class="section-title font-alt align-left mb-70 mb-sm-40">
-                About Studio
+                Pictures of Our Delightful Rooms
             </h2>
             
             <div class="row">

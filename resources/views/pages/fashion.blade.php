@@ -17,11 +17,6 @@
                                 <div class="hs-line-12 font-alt mb-10">
                                     Coming soon
                                 </div>
-                                
-                                <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus mi urna, vehicula aliquam dapibus ornare, semper semper nisl. 
-                                </p>
-                                
                             </div>
                             <!-- End Headings -->
                             

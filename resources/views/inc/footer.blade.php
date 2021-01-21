@@ -27,7 +27,7 @@
             <!-- End Copyright -->
             
             <div class="footer-made">
-                We live up to expectation.
+                we see the need we take the lead.
             </div>
             
         </div>
