@@ -66,7 +66,7 @@
                                     WhatsApp
                                 </div>
                                 <div class="ci-text">
-                                    <a target="_blank" href="https://wa.me/09028362347">+234 902 836 2347</a>
+                                    <a target="_blank" href="https://wa.link/aam4ph">+234 902 836 2347</a>
                                 </div>
                             </div>
                         </div>

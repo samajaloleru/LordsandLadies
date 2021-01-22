@@ -2,8 +2,8 @@
     <div class="full-wrapper relative clearfix">
         <!-- Logo ( * your text or image into link tag *) -->
         <div class="nav-logo-wrap local-scroll">
-            <a href="#top" class="logo">
-                {{-- <img src="images/logo-white.png" alt="" /> --}}
+            <a href="/" class="logo">
+                <img src="img/logo.jpeg" alt="" />
             </a>
         </div>
         <div class="mobile-nav">

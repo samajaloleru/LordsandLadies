@@ -76,7 +76,10 @@
             
             <div class="row section-text">
                 <div class="col-md-8 col-md-offset-2 shadow">
-                    <h2 class="section-title font-alt align-left pt-30 mb-20 ml-30">
+                    <div class="section-title align-left ml-30 pt-30" data-wow-duration="1.5s">
+                        <img src="img/logo.jpeg" width="78" height="36" alt="" />
+                    </div>
+                    <h2 class="section-title font-alt align-left mb-20 ml-30">
                         Lords&Ladies Suites.
                     </h2>
                     <ul class="mt-40">
@@ -88,25 +91,24 @@
                         <hr class="mb-30"/>
                     </ul>
                     
-                    <div class="about-padding">
-                        <h5 class="about-title">For bookings and Reservations; Contact</h5>
-                        <hr class="mb-30"/>
-                        <p>
-                            Whatsapp: &nbsp;&nbsp; +234 902 836 2347 
-                        </p>
-                        <p>
-                            Call: &nbsp;&nbsp; +234 902 836 2347 
-                        </p>
-                        <p>
-                            Email: &nbsp;&nbsp; lordsandladiessuites@gmail.com 
-                        </p>
-                        <p>
-                            Instagram: &nbsp;&nbsp; Lordsandladiessuite 
-                        </p>
-                        <p>
-                            Facebook: &nbsp;&nbsp; Lordsandladiessuites 
-                        </p>
-                        
+                    <div class="row">
+                        <div class="col-sm-10 col-sm-offset-1">
+                            <h5 class="about-title">
+                                For bookings and Reservations; Contact Via WhatsApp
+                                
+                            </h5>
+                            <hr class="mb-20"/>
+                            
+                            <p class="mb-50">
+                                Whatsapp: &nbsp; +234 902 836 2347
+
+                                &nbsp;&nbsp;&nbsp;
+                                <a href="https://wa.link/aam4ph" class="btn btn-mod btn-circle btn-small">
+                                    <i class="fa fa-whatsapp"></i>
+                                    Book Now
+                                </a>
+                            </p>
+                        </div>
                     </div>
                 </div>
             </div>
